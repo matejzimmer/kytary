@@ -1,0 +1,15 @@
+main, footer{
+    background-image: url(../img/lineupbg03_202202_593d8cb0869290e192fb9abc05bcf5fd.webp);
+    background-attachment: fixed;
+    background-size: cover;
+    padding-top: 10%;
+    padding-left: 20%;
+    padding-right: 20%;
+}
+footer{
+    padding-top: 50%;
+}
+
+
+
+
